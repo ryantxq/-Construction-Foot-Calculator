@@ -1,6 +1,7 @@
-# 营造尺计算器 Construction Foot Calculator
+### 营造尺计算器 Construction Foot Calculator
 这是基于宋式大木作的营造尺计算器工具，根据材等进行各种营造尺和公制尺寸的换算。
 默认营造尺1尺=31.2厘米（可以自行设定）
+
 ![营造尺计算器](营造尺计算器.png)
 ---
 #### 依赖：pyqt5库
